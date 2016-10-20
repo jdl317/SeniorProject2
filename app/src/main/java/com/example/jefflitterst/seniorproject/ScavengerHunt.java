@@ -22,7 +22,6 @@ public class ScavengerHunt extends FragmentActivity implements OnMapReadyCallbac
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
-        //HELLOOOOOOOOOOO
     }
 
 
